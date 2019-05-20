@@ -1,0 +1,2 @@
+# PharmaChains
+The product aims to bring transparency regarding the authenticity of medicines that are supplied by various vendors. Our main aim is to implement a clear and unambiguous supply management solution for the delivery and tracking of raw materials used in the production process by integrating blockchain technology. The pharmaceutical industry is plagued with counterfeit products, Our project aims to be a collective solution to these problems.
